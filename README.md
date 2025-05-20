@@ -1,6 +1,5 @@
 Titanic Survival Analysis
-Project Overview
-This project analyzes the Titanic passenger dataset to explore factors affecting survival rates. Using Python and pandas, I performed data cleaning, exploration, and statistical analysis.
+
 
 Key Questions Explored
 1.What percentage of passengers survived?
@@ -14,10 +13,6 @@ Python
 pandas
 Jupyter Notebook / VS Code
 
-How to Run
-Clone the repo
-Open main.ipynb in Jupyter Notebook or VS Code
-Run all cells to see the analysis
 
 Insights / Summary
 About X% of passengers survived.
